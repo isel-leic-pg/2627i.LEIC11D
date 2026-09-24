@@ -28,3 +28,5 @@ replay_pid*
 
 # Kotlin META-INF
 META-INF/
+
+build/
