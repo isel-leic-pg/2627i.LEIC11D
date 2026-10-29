@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7e02ed7-8f21-4eb0-86b5-67a158e32a50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ball1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ball2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ball3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="9" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="7.856507174580327E-85" />
+      <entry key="MS500" value="1.5102397688965274E-17" />
+      <entry key="S2" value="6.233923605319124E-5" />
+      <entry key="S5" value="0.02079672518989847" />
+      <entry key="S10" value="0.14645852246556754" />
+      <entry key="S30" value="0.7115191882708557" />
+      <entry key="S60" value="1.4352580885193649" />
+      <entry key="M2" value="3.0886461864486283" />
+      <entry key="M5" value="10.843120440643126" />
+      <entry key="M10" value="25.685349622918093" />
+      <entry key="M15" value="39.96711123459745" />
+      <entry key="M30" value="74.96599211008267" />
+      <entry key="H1" value="114.10199954236366" />
+      <entry key="H2" value="145.26795656233048" />
+      <entry key="H4" value="165.24919253949903" />
+      <entry key="D1" value="184.74757538961396" />
+      <entry key="W1" value="188.38484849945533" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0000000000018572" />
+      <entry key="MS500" value="1.004514939182246" />
+      <entry key="S2" value="1.3140948799626504" />
+      <entry key="S5" value="1.9188610162034596" />
+      <entry key="S10" value="2.5676300762332946" />
+      <entry key="S30" value="4.054170267228741" />
+      <entry key="S60" value="5.223671504384401" />
+      <entry key="M2" value="7.1636348914378525" />
+      <entry key="M5" value="11.699886167613675" />
+      <entry key="M10" value="17.83746949541949" />
+      <entry key="M15" value="23.455047055259797" />
+      <entry key="M30" value="36.677509751636684" />
+      <entry key="H1" value="51.01229228847499" />
+      <entry key="H2" value="62.28281765798723" />
+      <entry key="H4" value="69.47374545746281" />
+      <entry key="D1" value="76.47471741901184" />
+      <entry key="W1" value="77.77938356118052" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.007704943003854366" />
+      <entry key="MS500" value="0.3779534122270966" />
+      <entry key="S2" value="0.9168117250172307" />
+      <entry key="S5" value="1.6112894543251473" />
+      <entry key="S10" value="2.471921213606797" />
+      <entry key="S30" value="4.6257427907074105" />
+      <entry key="S60" value="6.554342505652428" />
+      <entry key="M2" value="10.158976344620429" />
+      <entry key="M5" value="22.4445092699806" />
+      <entry key="M10" value="43.424633069737645" />
+      <entry key="M15" value="63.32888770765821" />
+      <entry key="M30" value="111.5666658207071" />
+      <entry key="H1" value="165.06037374542174" />
+      <entry key="H2" value="207.51786845501766" />
+      <entry key="H4" value="234.7046088799202" />
+      <entry key="D1" value="261.21893545020254" />
+      <entry key="W1" value="266.16374441047986" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3LMnCGKD17bP5mHNdno05vlQMRG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CidrDebugProfileConversion": "true",
+    "Kotlin CLI.Ball1Kt in Ball.executor": "Run",
+    "Kotlin CLI.Ball2Kt in Ball.executor": "Run",
+    "Kotlin CLI.Ball3Kt in Ball.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Aulas/PG/26-27/LEIC11D/Repo/Aula13/Ball/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Aulas\PG\26-27\LEIC11D\Repo\Aula13\Ball\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin CLI.Ball3Kt in Ball">
+    <configuration name="Ball" type="Amper.Run" nameIsGenerated="true">
+      <option name="command" value="run" />
+      <EXTENSION ID="amper.run.common">
+        <option name="module" value="Ball" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ball1Kt in Ball" type="Amper.Run" temporary="true" nameIsGenerated="true">
+      <option name="command" value="run" />
+      <EXTENSION ID="amper.run.common">
+        <option name="module" value="Ball" />
+      </EXTENSION>
+      <EXTENSION ID="amper.run.jvm">
+        <option name="mainClass" enabled="true" value="Ball1Kt" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ball2Kt in Ball" type="Amper.Run" temporary="true" nameIsGenerated="true">
+      <option name="command" value="run" />
+      <EXTENSION ID="amper.run.common">
+        <option name="module" value="Ball" />
+      </EXTENSION>
+      <EXTENSION ID="amper.run.jvm">
+        <option name="mainClass" enabled="true" value="Ball2Kt" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ball3Kt in Ball" type="Amper.Run" temporary="true" nameIsGenerated="true">
+      <option name="command" value="run" />
+      <EXTENSION ID="amper.run.common">
+        <option name="module" value="Ball" />
+      </EXTENSION>
+      <EXTENSION ID="amper.run.jvm">
+        <option name="mainClass" enabled="true" value="Ball3Kt" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin CLI.Ball3Kt in Ball" />
+        <item itemvalue="Kotlin CLI.Ball2Kt in Ball" />
+        <item itemvalue="Kotlin CLI.Ball1Kt in Ball" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7e02ed7-8f21-4eb0-86b5-67a158e32a50" name="Changes" comment="" />
+      <created>1793272677570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793272677570</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
