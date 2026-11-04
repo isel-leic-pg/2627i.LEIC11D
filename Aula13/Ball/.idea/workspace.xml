@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7e02ed7-8f21-4eb0-86b5-67a158e32a50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ball1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ball2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ball3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point.kt" afterDir="false" />
+    <list default="true" id="c7e02ed7-8f21-4eb0-86b5-67a158e32a50" name="Changes" comment="Aula 29Out - Ball (1..3)">
+      <change afterPath="$PROJECT_DIR$/.idea/Ball.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ball.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ball4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,14 +17,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="9" />
+    <option name="cachedIndexableFilesCount" value="13" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -37,67 +37,67 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="7.856507174580327E-85" />
-      <entry key="MS500" value="1.5102397688965274E-17" />
-      <entry key="S2" value="6.233923605319124E-5" />
-      <entry key="S5" value="0.02079672518989847" />
-      <entry key="S10" value="0.14645852246556754" />
-      <entry key="S30" value="0.7115191882708557" />
-      <entry key="S60" value="1.4352580885193649" />
-      <entry key="M2" value="3.0886461864486283" />
-      <entry key="M5" value="10.843120440643126" />
-      <entry key="M10" value="25.685349622918093" />
-      <entry key="M15" value="39.96711123459745" />
-      <entry key="M30" value="74.96599211008267" />
-      <entry key="H1" value="114.10199954236366" />
-      <entry key="H2" value="145.26795656233048" />
-      <entry key="H4" value="165.24919253949903" />
-      <entry key="D1" value="184.74757538961396" />
-      <entry key="W1" value="188.38484849945533" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000002487646" />
+      <entry key="S5" value="1.0001439908545509" />
+      <entry key="S10" value="1.0120883708266484" />
+      <entry key="S30" value="1.3065492027212304" />
+      <entry key="S60" value="2.148220214028599" />
+      <entry key="M2" value="4.3305930386174545" />
+      <entry key="M5" value="11.093051259133437" />
+      <entry key="M10" value="21.69237297676982" />
+      <entry key="M15" value="30.1966771880115" />
+      <entry key="M30" value="45.72661814378442" />
+      <entry key="H1" value="58.49456977805289" />
+      <entry key="H2" value="68.6500877354373" />
+      <entry key="H4" value="90.68867321134422" />
+      <entry key="D1" value="212.25255795770673" />
+      <entry key="W1" value="267.80070499571434" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0000000000018572" />
-      <entry key="MS500" value="1.004514939182246" />
-      <entry key="S2" value="1.3140948799626504" />
-      <entry key="S5" value="1.9188610162034596" />
-      <entry key="S10" value="2.5676300762332946" />
-      <entry key="S30" value="4.054170267228741" />
-      <entry key="S60" value="5.223671504384401" />
-      <entry key="M2" value="7.1636348914378525" />
-      <entry key="M5" value="11.699886167613675" />
-      <entry key="M10" value="17.83746949541949" />
-      <entry key="M15" value="23.455047055259797" />
-      <entry key="M30" value="36.677509751636684" />
-      <entry key="H1" value="51.01229228847499" />
-      <entry key="H2" value="62.28281765798723" />
-      <entry key="H4" value="69.47374545746281" />
-      <entry key="D1" value="76.47471741901184" />
-      <entry key="W1" value="77.77938356118052" />
+      <entry key="MS100" value="4.637980210362841E-7" />
+      <entry key="MS500" value="0.05410853534497865" />
+      <entry key="S2" value="0.48229909229206913" />
+      <entry key="S5" value="0.7470102791662073" />
+      <entry key="S10" value="0.864310793739344" />
+      <entry key="S30" value="0.9797842264328558" />
+      <entry key="S60" value="1.209868625043349" />
+      <entry key="M2" value="1.8709679960107808" />
+      <entry key="M5" value="4.333582056751063" />
+      <entry key="M10" value="9.553235075046736" />
+      <entry key="M15" value="14.331627832322614" />
+      <entry key="M30" value="23.583014736370515" />
+      <entry key="H1" value="31.428937837333986" />
+      <entry key="H2" value="37.40071993476632" />
+      <entry key="H4" value="47.607815305183024" />
+      <entry key="D1" value="98.53491094195874" />
+      <entry key="W1" value="121.40164533276504" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.007704943003854366" />
-      <entry key="MS500" value="0.3779534122270966" />
-      <entry key="S2" value="0.9168117250172307" />
-      <entry key="S5" value="1.6112894543251473" />
-      <entry key="S10" value="2.471921213606797" />
-      <entry key="S30" value="4.6257427907074105" />
-      <entry key="S60" value="6.554342505652428" />
-      <entry key="M2" value="10.158976344620429" />
-      <entry key="M5" value="22.4445092699806" />
-      <entry key="M10" value="43.424633069737645" />
-      <entry key="M15" value="63.32888770765821" />
-      <entry key="M30" value="111.5666658207071" />
-      <entry key="H1" value="165.06037374542174" />
-      <entry key="H2" value="207.51786845501766" />
-      <entry key="H4" value="234.7046088799202" />
-      <entry key="D1" value="261.21893545020254" />
-      <entry key="W1" value="266.16374441047986" />
+      <entry key="MS100" value="6.180461760651452E-4" />
+      <entry key="MS500" value="0.2438750526054992" />
+      <entry key="S2" value="1.0452826865820606" />
+      <entry key="S5" value="1.5229768638948913" />
+      <entry key="S10" value="1.7533965739714206" />
+      <entry key="S30" value="2.241653058744907" />
+      <entry key="S60" value="3.3301213638241496" />
+      <entry key="M2" value="6.176740833641509" />
+      <entry key="M5" value="15.391799796065547" />
+      <entry key="M10" value="31.1960148749157" />
+      <entry key="M15" value="44.47362188801553" />
+      <entry key="M30" value="69.25912163391015" />
+      <entry key="H1" value="89.88750998413147" />
+      <entry key="H2" value="106.02865616474718" />
+      <entry key="H4" value="138.2824126748136" />
+      <entry key="D1" value="310.78284842032207" />
+      <entry key="W1" value="389.2015464117583" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3LMnCGKD17bP5mHNdno05vlQMRG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -111,21 +111,27 @@
     "Kotlin CLI.Ball1Kt in Ball.executor": "Run",
     "Kotlin CLI.Ball2Kt in Ball.executor": "Run",
     "Kotlin CLI.Ball3Kt in Ball.executor": "Run",
+    "Kotlin CLI.Ball4Kt in Ball.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Aulas/PG/26-27/LEIC11D/Repo/Aula13/Ball/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -133,7 +139,7 @@
       <recent name="C:\Aulas\PG\26-27\LEIC11D\Repo\Aula13\Ball\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin CLI.Ball3Kt in Ball">
+  <component name="RunManager" selected="Kotlin CLI.Ball4Kt in Ball">
     <configuration name="Ball" type="Amper.Run" nameIsGenerated="true">
       <option name="command" value="run" />
       <EXTENSION ID="amper.run.common">
@@ -171,8 +177,19 @@
       </EXTENSION>
       <method v="2" />
     </configuration>
+    <configuration name="Ball4Kt in Ball" type="Amper.Run" temporary="true" nameIsGenerated="true">
+      <option name="command" value="run" />
+      <EXTENSION ID="amper.run.common">
+        <option name="module" value="Ball" />
+      </EXTENSION>
+      <EXTENSION ID="amper.run.jvm">
+        <option name="mainClass" enabled="true" value="Ball4Kt" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin CLI.Ball4Kt in Ball" />
         <item itemvalue="Kotlin CLI.Ball3Kt in Ball" />
         <item itemvalue="Kotlin CLI.Ball2Kt in Ball" />
         <item itemvalue="Kotlin CLI.Ball1Kt in Ball" />
@@ -182,8 +199,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
       </set>
     </attachedChunks>
   </component>
@@ -195,9 +212,33 @@
       <option name="presentableId" value="Default" />
       <updated>1793272677570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Aula 29Out - Ball (1..3)">
+      <option name="closed" value="true" />
+      <created>1793278462984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793278462984</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aula 29Out - Ball (1..3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 29Out - Ball (1..3)" />
   </component>
 </project>
