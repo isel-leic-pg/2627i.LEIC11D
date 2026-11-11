@@ -11,11 +11,12 @@ fun main() {
         )
         ball.drawIn(arena)
         arena.onTimeProgress(50) {
-            ball = ball.move(arena.width)
+            ball = ball.move(arena.width, arena.height)
             ball.drawIn(arena)
         }
         arena.onMouseDown { me ->
-            ball = ball.copy( center = Point(me.x,me.y) )
+            val dir = Offset((-10..10).random(), (-10..10).random())
+            ball = ball.copy( center = Point(me.x,me.y), offset = dir )
         }
     }
     onFinish {  }
