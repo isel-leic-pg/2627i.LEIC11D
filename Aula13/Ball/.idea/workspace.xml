@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7e02ed7-8f21-4eb0-86b5-67a158e32a50" name="Changes" comment="Aula 4Nov - Ball4 ; class Ball">
-      <change afterPath="$PROJECT_DIR$/src/Ball5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpaceShip.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t2start.kt" afterDir="false" />
+    <list default="true" id="c7e02ed7-8f21-4eb0-86b5-67a158e32a50" name="Changes" comment="Aula 11Nov - Ball5 ; SpaceShip">
+      <change afterPath="$PROJECT_DIR$/../../Hero/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hero/.idea/amper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hero/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hero/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hero/kotlin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hero/kotlin.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hero/module.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hero/resources/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hero/src/Grid.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hero/src/main1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hero/src/main2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ball.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ball.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ball4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ball4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,61 +44,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="7.235026095929465E-44" />
-      <entry key="MS500" value="2.7373513580500314E-9" />
-      <entry key="S2" value="0.012536328243710603" />
-      <entry key="S5" value="0.3435821551955463" />
-      <entry key="S10" value="1.1314596110694706" />
-      <entry key="S30" value="2.947234662885535" />
-      <entry key="S60" value="5.0683659442297095" />
-      <entry key="M2" value="8.556775156290737" />
-      <entry key="M5" value="16.559171166965353" />
-      <entry key="M10" value="29.66149486927065" />
-      <entry key="M15" value="43.045309976173215" />
-      <entry key="M30" value="81.20588882029203" />
-      <entry key="H1" value="138.94103643035749" />
-      <entry key="H2" value="205.58975941670167" />
-      <entry key="H4" value="273.7125121780148" />
-      <entry key="D1" value="480.8834382967654" />
-      <entry key="W1" value="590.2395391777783" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000017529072969" />
+      <entry key="S2" value="1.05196988632261" />
+      <entry key="S5" value="1.5140859111326148" />
+      <entry key="S10" value="2.197720882854358" />
+      <entry key="S30" value="3.188502057663614" />
+      <entry key="S60" value="3.559154859164586" />
+      <entry key="M2" value="3.7699534255643035" />
+      <entry key="M5" value="3.9055526080549585" />
+      <entry key="M10" value="3.9523739356625343" />
+      <entry key="M15" value="3.97060615658853" />
+      <entry key="M30" value="4.597725603145527" />
+      <entry key="H1" value="16.07053768581749" />
+      <entry key="H2" value="64.61284703398249" />
+      <entry key="H4" value="152.6225610998287" />
+      <entry key="D1" value="438.34898374889" />
+      <entry key="W1" value="585.7198464683054" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000000001545" />
-      <entry key="S5" value="1.0000118865188667" />
-      <entry key="S10" value="1.0061667044648641" />
-      <entry key="S30" value="1.4599090451143923" />
-      <entry key="S60" value="2.4457185958129513" />
-      <entry key="M2" value="3.756342459231033" />
-      <entry key="M5" value="7.086090733848446" />
-      <entry key="M10" value="14.516918583824449" />
-      <entry key="M15" value="21.869127913213045" />
-      <entry key="M30" value="39.019235587119034" />
-      <entry key="H1" value="59.83783437141046" />
-      <entry key="H2" value="81.70777353515078" />
-      <entry key="H4" value="105.71557184671438" />
-      <entry key="D1" value="190.3325100866842" />
-      <entry key="W1" value="236.0671487788722" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="7.351513525261322E-128" />
+      <entry key="S60" value="5.488225739794114E-64" />
+      <entry key="M2" value="5.627013014123382E-32" />
+      <entry key="M5" value="1.32011511934648E-12" />
+      <entry key="M10" value="6.265806648625185E-6" />
+      <entry key="M15" value="0.001249011671896133" />
+      <entry key="M30" value="0.2948806485473129" />
+      <entry key="H1" value="5.201871566580368" />
+      <entry key="H2" value="24.091023736335938" />
+      <entry key="H4" value="57.403041336809935" />
+      <entry key="D1" value="171.9144168118621" />
+      <entry key="W1" value="232.65970455020707" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.005486112795851551" />
-      <entry key="MS500" value="0.3530636036885273" />
-      <entry key="S2" value="0.782613046689359" />
-      <entry key="S5" value="1.2243906240317026" />
-      <entry key="S10" value="2.0408488157727174" />
-      <entry key="S30" value="4.311723337571867" />
-      <entry key="S60" value="7.410138308032486" />
-      <entry key="M2" value="12.2213898938131" />
-      <entry key="M5" value="23.57118539517974" />
-      <entry key="M10" value="44.100603251590734" />
-      <entry key="M15" value="64.83277331009286" />
-      <entry key="M30" value="120.14492775287523" />
-      <entry key="H1" value="198.71289626726596" />
-      <entry key="H2" value="287.2508483693129" />
-      <entry key="H4" value="379.3974035932685" />
-      <entry key="D1" value="671.2068120015088" />
-      <entry key="W1" value="826.3050833554776" />
+      <entry key="MS100" value="5.930839949493315E-25" />
+      <entry key="MS500" value="1.5972318079232145E-5" />
+      <entry key="S2" value="0.10330134735358228" />
+      <entry key="S5" value="0.7734583408808857" />
+      <entry key="S10" value="1.6817261099721756" />
+      <entry key="S30" value="2.9630723180678737" />
+      <entry key="S60" value="3.437673251796945" />
+      <entry key="M2" value="3.7068211689997783" />
+      <entry key="M5" value="3.8796979522701274" />
+      <entry key="M10" value="3.9393501307269085" />
+      <entry key="M15" value="3.9631408056918094" />
+      <entry key="M30" value="4.887633781538241" />
+      <entry key="H1" value="21.26448780474522" />
+      <entry key="H2" value="88.68901234160451" />
+      <entry key="H4" value="210.00839604375375" />
+      <entry key="D1" value="610.2550570848938" />
+      <entry key="W1" value="818.3779565488566" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -107,39 +112,39 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "CidrDebugProfileConversion": "true",
-    "CidrDebugProfileConversion262": "true",
-    "Kotlin CLI.Ball1Kt in Ball.executor": "Run",
-    "Kotlin CLI.Ball2Kt in Ball.executor": "Run",
-    "Kotlin CLI.Ball3Kt in Ball.executor": "Run",
-    "Kotlin CLI.Ball4Kt in Ball.executor": "Run",
-    "Kotlin CLI.Ball5Kt in Ball.executor": "Run",
-    "Kotlin CLI.T2fase1Kt in Ball.executor": "Run",
-    "Kotlin CLI.T2startKt in Ball.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Aulas/PG/26-27/LEIC11D/Repo/Aula13/Ball/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;CidrDebugProfileConversion&quot;: &quot;true&quot;,
+    &quot;CidrDebugProfileConversion262&quot;: &quot;true&quot;,
+    &quot;Kotlin CLI.Ball1Kt in Ball.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin CLI.Ball2Kt in Ball.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin CLI.Ball3Kt in Ball.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin CLI.Ball4Kt in Ball.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin CLI.Ball5Kt in Ball.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin CLI.T2fase1Kt in Ball.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin CLI.T2startKt in Ball.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Aulas/PG/26-27/LEIC11D/Repo/Aula13/Ball/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Aulas\PG\26-27\LEIC11D\Repo\Aula13\Ball\src" />
@@ -245,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793807748397</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Aula 11Nov - Ball5 ; SpaceShip">
+      <option name="closed" value="true" />
+      <created>1794406713432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794406713432</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +278,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aula 29Out - Ball (1..3)" />
     <MESSAGE value="Aula 4Nov - Ball4 ; class Ball" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 4Nov - Ball4 ; class Ball" />
+    <MESSAGE value="Aula 11Nov - Ball5 ; SpaceShip" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 11Nov - Ball5 ; SpaceShip" />
   </component>
 </project>
