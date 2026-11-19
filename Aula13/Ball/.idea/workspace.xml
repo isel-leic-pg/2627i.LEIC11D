@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7e02ed7-8f21-4eb0-86b5-67a158e32a50" name="Changes" comment="Aula 11Nov - Ball5 ; SpaceShip">
-      <change afterPath="$PROJECT_DIR$/../../Hero/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hero/.idea/amper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hero/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hero/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hero/kotlin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hero/kotlin.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hero/module.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hero/resources/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hero/src/Grid.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hero/src/main1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hero/src/main2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

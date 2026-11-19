@@ -1,5 +1,8 @@
 import pt.isel.canvas.*
 
+/**
+ * Displays a grid and the hero in center.
+ */
 fun main() {
     onStart {
         val cv = Canvas(CELL_SIDE*COLS, CELL_SIDE*ROWS, BLACK)

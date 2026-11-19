@@ -11,4 +11,3 @@ fun Canvas.drawGrid() {
         drawLine(0, y, width, y, YELLOW)
 }
 
-data class Cell(val row: Int, val col: Int)
