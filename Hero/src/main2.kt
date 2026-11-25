@@ -3,7 +3,6 @@ import pt.isel.canvas.*
 fun main() {
     onStart {
         val cv = Canvas(CELL_SIDE*COLS, CELL_SIDE*ROWS, BLACK)
-        cv.drawGrid()
         var pos = Cell(ROWS/2, COLS/2)
         cv.drawArena(pos)
         cv.onKeyPressed { ke ->
@@ -14,7 +13,7 @@ fun main() {
     onFinish {  }
 }
 
-private fun Canvas.drawArena(p: Cell) {
+fun Canvas.drawArena(p: Cell) {
     erase()
     drawGrid()
     val x = p.col * CELL_SIDE
